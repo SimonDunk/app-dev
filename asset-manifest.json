@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SimonDunk/app-dev/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SimonDunk/app-dev/static/js/main.82700ae1.chunk.js",
-    "main.js.map": "/SimonDunk/app-dev/static/js/main.82700ae1.chunk.js.map",
-    "runtime-main.js": "/SimonDunk/app-dev/static/js/runtime-main.8d727ea9.js",
-    "runtime-main.js.map": "/SimonDunk/app-dev/static/js/runtime-main.8d727ea9.js.map",
-    "static/js/2.65688262.chunk.js": "/SimonDunk/app-dev/static/js/2.65688262.chunk.js",
-    "static/js/2.65688262.chunk.js.map": "/SimonDunk/app-dev/static/js/2.65688262.chunk.js.map",
-    "index.html": "/SimonDunk/app-dev/index.html",
-    "precache-manifest.56d5e0f4be78e6481b13aa80080f2423.js": "/SimonDunk/app-dev/precache-manifest.56d5e0f4be78e6481b13aa80080f2423.js",
-    "service-worker.js": "/SimonDunk/app-dev/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/SimonDunk/app-dev/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.65688262.chunk.js.LICENSE.txt": "/SimonDunk/app-dev/static/js/2.65688262.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SimonDunk/app-dev/static/media/logo.5d5d9eef.svg"
+    "main.css": "/simondunk.github.io/app-dev/static/css/main.d1b05096.chunk.css",
+    "main.js": "/simondunk.github.io/app-dev/static/js/main.b0a6c600.chunk.js",
+    "main.js.map": "/simondunk.github.io/app-dev/static/js/main.b0a6c600.chunk.js.map",
+    "runtime-main.js": "/simondunk.github.io/app-dev/static/js/runtime-main.6317ef49.js",
+    "runtime-main.js.map": "/simondunk.github.io/app-dev/static/js/runtime-main.6317ef49.js.map",
+    "static/js/2.65688262.chunk.js": "/simondunk.github.io/app-dev/static/js/2.65688262.chunk.js",
+    "static/js/2.65688262.chunk.js.map": "/simondunk.github.io/app-dev/static/js/2.65688262.chunk.js.map",
+    "index.html": "/simondunk.github.io/app-dev/index.html",
+    "precache-manifest.9903e4aa27f5ed2cda728e9f8430cd13.js": "/simondunk.github.io/app-dev/precache-manifest.9903e4aa27f5ed2cda728e9f8430cd13.js",
+    "service-worker.js": "/simondunk.github.io/app-dev/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/simondunk.github.io/app-dev/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.65688262.chunk.js.LICENSE.txt": "/simondunk.github.io/app-dev/static/js/2.65688262.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/simondunk.github.io/app-dev/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d727ea9.js",
+    "static/js/runtime-main.6317ef49.js",
     "static/js/2.65688262.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.82700ae1.chunk.js"
+    "static/js/main.b0a6c600.chunk.js"
   ]
 }
